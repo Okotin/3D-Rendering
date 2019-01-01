@@ -3,5 +3,6 @@ body {
 }
 
 #cvs {
+	position: absolute;
 	background-color: #f7fdff;
 }
