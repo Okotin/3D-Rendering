@@ -1,0 +1,7 @@
+#####################
+PISTEIDEN RENDERÖINTI
+#####################
+
+- lasketaan pisteen ja kameran välinen kulma (yaw & pitch)
+- lasketaan kulma suhteutettuna kameran kulmaan
+- lasketaan pisteen sijainti näytöllä näkökentän avulla
